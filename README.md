@@ -1,31 +1,55 @@
-## Hi there 👋 I'm Dylan
+<!-- Banner image -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Dylan%20-%20Developer-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entrepreneur-black?style=for-the-badge&logo=target&logoColor=limegreen" />
+  <img src="https://img.shields.io/badge/Gaming%20Dev-orange?style=for-the-badge&logo=steam&logoColor=white" />
+</p>
 
-I'm a passionate developer and entrepreneur with a deep love for tech, gaming, and building innovative platforms. Whether it's developing custom Discord bots, creating powerful websites, or launching scalable eCommerce platforms, I'm always seeking the next challenge to tackle.
+<h1 align="center">Hey, I'm Dylan 👋</h1>
+<p align="center">Full-stack Developer | Discord Bot Expert | Startup Builder</p>
 
 ---
 
 ### 💼 What I Do
-- 🖥️ Full-stack web development — WordPress, React, Tailwind, and more
-- 🤖 Discord bot development — Python (`discord.py`), JavaScript (`discord.js`)
-- ⚙️ Hosting & server infrastructure — From Minecraft to bots
-- 💳 eCommerce integrations — Stripe, Square, WooCommerce, WHMCS
+
+- 🖥️ Full-stack web development (WordPress, React, TailwindCSS)
+- 🤖 Discord bot development using Python & JavaScript
+- 💳 eCommerce automation and platform integrations
+- 🧠 Building platforms like **[Sellway.gg](https://sellway.gg)**, **[SyncTide](https://synctide.com)**, and **[HostMyBot.io](https://hostmybot.io)**
+- 🎮 Crafting gamer-focused experiences, tools, and utilities
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,react,tailwind,nodejs,python,js,html,css,php,git,figma,vscode" />
+</p>
+
+- **Frontend:** React, Tailwind, HTML/CSS, Alpine.js  
+- **Backend:** Node.js, PHP, Python  
+- **CMS:** WordPress (Custom Themes & Plugins)  
+- **Bot Development:** discord.js, discord.py  
+- **Payments:** Stripe, Square, WooCommerce  
+- **Dev Tools:** Git, VS Code, Figma, WHMCS, Pterodactyl
 
 ---
 
 ### 🌱 Currently Learning
-- Advanced system automation
-- WHMCS modules & Pterodactyl API
-- Business scaling & SaaS operations
+
+- WHMCS module development
+- Pterodactyl automation and scaling
+- SaaS best practices & startup ops
 
 ---
 
-### 🧠 My Interests
-- Gaming communities (Black Ops 6, Rust, GTA V, Minecraft)
-- Automation & customer experience
-- UI/UX design with a gamer aesthetic
-- Startup ecosystems
+### 🧠 Interests
+
+- 🎮 Games: Black Ops 6, GTA V, Minecraft, Rust  
+- 🌐 Startup design & branding  
+- ⚡ Automation & customer UX  
+- 📦 Hosting solutions & control panels
 
 ---
 
-> "Build what you crave, and others will crave it too."
-
+<p align="center"><em>"Build what you crave, and others will crave it too."</em></p>
