@@ -12,7 +12,6 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FFB3&vCenter=true&width=435&lines=Hi+I'm+Dylan!;Full-Stack+Developer;Discord+Bot+Expert;Startup+Founder" alt="Typing SVG" />
 </div>
 
 
