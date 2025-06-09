@@ -15,18 +15,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FFB3&vCenter=true&width=435&lines=Hi+I'm+Dylan!;Full-Stack+Developer;Discord+Bot+Expert;Startup+Founder" alt="Typing SVG" />
 </div>
 
-```
+
 ```shell
 > whoami
 🧑 Dylan — Full-stack Developer | Discord Bot Specialist | Startup Builder
-```
-
-```shell
-> ls ~/projects
-📁 Sellway.gg      - Scalable eCommerce platform  
-📁 HostMyBot.io    - Discord bot hosting automation  
-📁 SyncTide        - Member growth tool for communities  
-📁 CamoLabs.net    - Tech-focused service provider
 ```
 
 ```shell
